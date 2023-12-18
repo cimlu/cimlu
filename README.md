@@ -1,4 +1,4 @@
-<!-- ### Hi, I'm Caique Caires Ramos -->
+<!-- ### Hi, I'm Cimurro -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=header"/>
 
@@ -20,7 +20,7 @@
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cimlu&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Cimurro's+github+stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cimlu&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Cimurro's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimlu&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
 </div>
 
@@ -40,15 +40,15 @@
 ##
 
   ```yaml
-  name: Caique Caires Ramos
-  located_in: Limeira, São Paulo (Brazil)
-  job: Looking
-  education: ["Computer Engineering": "Univesp", "System Developing": "Cotil - Unicamp"]
+  name: Lucas Cimurro
+  located_in: Internet
+  job: Code eater
+  education: ["Technical Chemistry": "ETEC Trajano Camargo", "System Developing": "Cotil - Unicamp"]
 
-  fields_of_interests: ["Web Development", "JAVA Development", "Software Development", "Server-Side Programming"]
-  currently_learning: ["Java", "POO", "Frameworks", "Database Managment", "Clean Code"]
+  fields_of_interests: ["Web Development", "Game Development", "Pixel Art", "Philosophy"]
+  currently_learning: ["GDScript", "Godot Engine", "Frameworks", "Database Managment", "Clean Code"]
 
-  hobbies: ["Chess", "Casual Gaming", "Rubik's Cube"]
+  hobbies: ["Chess", "Reading", "Writing"]
   ```
 
 <details open> 
@@ -119,14 +119,14 @@
   <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
 
   <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/Caique-Rawos/Caique-Rawos/blob/output/github-contribution-grid-snake-dark.svg">
+    <img title="🐍 Snake contributions" src="https://github.com/cimlu/cimlu/blob/output/github-contribution-grid-snake-dark.svg">
   </p>
 </details>
 
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
-    <a href="https://www.linkedin.com/in/caique-caires-ramos-55297a208" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://linktr.ee/cimlu" target="_blank"><img src="https://www.facebook.com/photo/?fbid=5754052151326912&set=pcb.5754052234660237" target="_blank"></a>
   <a href="https://www.instagram.com/caique_rawos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caique.rawos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </p>
