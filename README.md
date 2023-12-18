@@ -3,10 +3,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Cimurro" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Teste" alt="Typing SVG" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=AKA+Cimurro;I'm+18+years+old;I'm+from+Brazil,+SP;I'm+studying+Game+development;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=Also+known+as+cimlu;I'm+19+years+old;I'm+from+Brazil,+SP;I'm+studying+Computer+Engineering+at+Univesp;Be+Welcome!)](https://git.io/typing-svg)
 
 <p align="center">
     <a href="https://github.com/cimlu?tab=repositories">
@@ -20,12 +20,12 @@
 </p>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caique-Rawos&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Caique Caires Ramos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-Rawos&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=cimlu&show_icons=true&count_private=true&hide_border=true&title_color=ff0080&icon_color=ff0080&text_color=21ffe1&bg_color=0d1117" alt="Cimurro's github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cimlu&layout=compact&hide_border=true&title_color=ff0080&text_color=21ffe1&bg_color=0d1117" />
 </div>
 
 <p align="center">
-    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=Caique-Rawos&theme=radical&no-bg=true&column=-1&margin-w=15&margin-h=15">
+    <img align=center title="🏆 My Trophies" src="https://github-profile-trophy.vercel.app/?username=cimlu&theme=radical&no-bg=true&column=-1&margin-w=15&margin-h=15">
 </p>
 
 
@@ -56,17 +56,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Caique-Rawos/GerenciadorDeTarefas">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GerenciadorDeTarefas&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+    <a href="https://github.com/cimlu/dinor">
+      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=cimlu&repo=dinor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
     </a> 
-    <a href="https://github.com/Caique-Rawos/GGWP-Store">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=GGWP-Store&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a> 
-    <a href="https://github.com/Caique-Rawos/ERP_Agenda">
-      <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=Caique-Rawos&repo=ERP_Agenda&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
-    </a>
     </p>
-    <a href="https://github.com/Caique-Rawos?tab=repositories">
+    <a href="https://github.com/cimlu?tab=repositories">
       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/>
     </a>
 </details>
