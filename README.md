@@ -48,7 +48,7 @@
   fields_of_interests: ["Web Development", "Game Development", "Pixel Art", "Philosophy"]
   currently_learning: ["GDScript", "Godot Engine", "Frameworks", "Database Managment", "Clean Code"]
 
-  hobbies: ["Chess", "Reading", "Writing"]
+  hobbies: ["Chess", "Reading", "Writing", "Gym"]
   ```
 
 <details open> 
