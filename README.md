@@ -86,9 +86,6 @@
   <h3>🧰 Frameworks and Libraries</h3>
 
   <p>
-      <a href="https://www.arduino.cc/"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-      <a href="https://getbootstrap.com/"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-      <a href="https://github.com/features/actions"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white"></a>
   </p>
 
   <h3>🗄️ Databases and Cloud Hosting</h3>
@@ -102,26 +99,14 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="https://ubuntu.com/"><img alt="Ubuntu Linux" src="https://img.shields.io/badge/Ubuntu-ubuntu?logo=Ubuntu&color=E95420&logoColor=white"></a>
       <a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
       <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="https://netbeans.apache.org/"><img alt="Apache Netbeans" src="https://img.shields.io/badge/Apache_Netbeans_IDE-Apache?logo=Apache%20NetBeans&color=1B6AC6&logoColor=white"></a>
-      <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
 </details>
 
 ##
-
-
-<details open>
-  <summary><h2>🐍 Watch my contribution graph get eaten by the snake</h2></summary>
-
-  <p align="center">
-    <img title="🐍 Snake contributions" src="https://github.com/cimlu/cimlu/blob/output/github-contribution-grid-snake-dark.svg">
-  </p>
-</details>
 
 <div>
   <h3 align="center">🌎 Find me around the web</h3>
