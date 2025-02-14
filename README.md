@@ -108,11 +108,11 @@
 
 ##
 
-<div>
-  <h3 align="center">🌎 Find me around the web</h3>
+ <!--<div>
+ <h3 align="center">🌎 Find me around the web</h3>
   <p align="center">
     <a href="https://linktr.ee/cimlu" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png" target="_blank"></a>
   </p>
 </div>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=footer"/>-->
