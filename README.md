@@ -3,7 +3,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0080&height=80&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Cimurro" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=32&pause=1000&color==21ffe1&center=true&vCenter=true&repeat=false&width=500&lines=Lucas Cimurro" alt="Typing SVG" /></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=21ffe1&size=24&center=true&vCenter=true&width=1000&lines=I+love+philosophy;I'm+18+years+old;I'm+from+Brazil;I'm+studying+Game+Development;Be+Welcome!)](https://git.io/typing-svg)
@@ -67,7 +67,7 @@
 
 
 <details> 
-  <summry><h2>🛠️ My Favorite Tools</h2></summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming Languages</h3>
